@@ -23,6 +23,8 @@ El temario del curso será:
 ---
 
 ## Preguntas habituales.
+* **¿Cuando serán las clases?
+	* Como norma general serán los martes, atent@s a mis redes sociales por si hay algún cambio. También puedes [apuntarte al próximo evento](https://twitter.com/AristiDevs/status/1638175267113041929) para no perdértelo.
 
 * **¿Necesito saber programar?**
 	* Necesitas al manos conocimientos básicos, si no los tienes revisa el [curso anterior](https://github.com/ArisGuimera/Android-Expert).
@@ -37,6 +39,6 @@ El temario del curso será:
 Este proyecto es totalmente GRATUITO por lo que puedes aportar tu grano de arena de múltiples formas.
 
 - Dale a FAV al proyecto (Star)
-- Comparte el [tuit original]() para que llegue a más gente
+- Comparte el [tuit original](https://twitter.com/AristiDevs/status/1638175267113041929) para que llegue a más gente
 - Sígueme en mis [redes sociales](https://aristi.dev)
 - Nomíname a [GITHUB STAR](https://stars.github.com/nominate/)
