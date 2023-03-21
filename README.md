@@ -23,7 +23,7 @@ El temario del curso será:
 ---
 
 ## Preguntas habituales.
-* **¿Cuando serán las clases?
+* **¿Cuando serán las clases?**
 	* Como norma general serán los martes, atent@s a mis redes sociales por si hay algún cambio. También puedes [apuntarte al próximo evento](https://twitter.com/AristiDevs/status/1638175267113041929) para no perdértelo.
 
 * **¿Necesito saber programar?**
