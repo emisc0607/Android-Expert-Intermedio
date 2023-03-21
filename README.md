@@ -24,7 +24,7 @@ El temario del curso será:
 
 ## Preguntas habituales.
 * **¿Cuando serán las clases?**
-	* Como norma general serán los martes, atent@s a mis redes sociales por si hay algún cambio. También puedes [apuntarte al próximo evento](https://twitter.com/AristiDevs/status/1638175267113041929) para no perdértelo.
+	* Como norma general serán los martes, atent@s a mis redes sociales por si hay algún cambio. También puedes [apuntarte al próximo evento](https://discord.gg/Ban6Rf37?event=1087734921495318658) para no perdértelo.
 
 * **¿Necesito saber programar?**
 	* Necesitas al manos conocimientos básicos, si no los tienes revisa el [curso anterior](https://github.com/ArisGuimera/Android-Expert).
