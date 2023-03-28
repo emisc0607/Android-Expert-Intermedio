@@ -5,13 +5,16 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.fragment.app.ListFragment
+import androidx.fragment.app.viewModels
 import com.emisc0607.horoscopapp.R
 import com.emisc0607.horoscopapp.databinding.FragmentCompatibilityBinding
+import com.emisc0607.horoscopapp.ui.list.ListViewModel
+import dagger.hilt.android.AndroidEntryPoint
 
-private const val ARG_PARAM1 = "param1"
-private const val ARG_PARAM2 = "param2"
-
+@AndroidEntryPoint
 class CompatibilityFragment : Fragment() {
+    private val viewModel by viewModels<CompatibilityViewModel>()
     private lateinit var binding: FragmentCompatibilityBinding
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
